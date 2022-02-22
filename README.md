@@ -1,4 +1,4 @@
-# CS 2263 Homework 03 Version 0.0.0
+# CS 2263 Homework 03 Version 0.0.1
 
 ## Project Description
 This is a simple UI project that allows a user to input information about a course and then 
