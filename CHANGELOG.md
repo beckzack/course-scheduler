@@ -6,3 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Version 0.0.1]
+### Added
+- CHANGELOG, README, and License
+- Added docs folder with an index.md file
+
+### Updated
+-.gitignore file to ignore IDE files
