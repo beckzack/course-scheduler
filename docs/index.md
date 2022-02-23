@@ -4,6 +4,9 @@
 This is a simple UI project that allows a user to input information about a course and then display 
 that information to the screen when prompted by the user.
 
+## Documentation
+[Documentation](javadoc/index.html)
+
 ## How to Install and Run
 To install and run this project, you must have both Java and Gradle installed on your local
 system. To install, clone this repository to your computer. To run, you first must make sure
