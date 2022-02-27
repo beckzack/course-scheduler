@@ -1,6 +1,6 @@
-#CS 2263 Homework 03 Version 0.1.0
+# CS 2263 Homework 03 Version 0.1.0
 
-##Project Description
+## Project Description
 This is a simple UI project that allows a user to input information about a course and then display 
 that information to the screen when prompted by the user.
 
@@ -8,13 +8,13 @@ that information to the screen when prompted by the user.
 Documentation can be found at the following link: [documentation](javadoc/index.html)
 
 ## Design
-### <p align="center"> User Interface Mockup </p>
+### User Interface Mockup
 ![User Interface Diagram](images/Homework03UIDiagram.png) <br>
 The above image depicts a simple mockup of what the user-interface will look like. The user
 will be able either input courses manually or load them from a JSON file. They also have
 multiple options for displaying the courses as well as having the option to save the current
 catalog of courses.
-### <p align="center"> UML Class Diagram
+### UML Class Diagram
 ![UML Class Diagram](images/Homework03ClassDiagram.png)
 The above image depicts the relationship between the Course Processor class (which
 houses the UI) and the Course data class. The Course Processor class maintains a list of courses input
