@@ -1,4 +1,4 @@
-# CS 2263 Homework 03 Version 0.0.1
+# CS 2263 Homework 03 Version 0.1.0
 
 ## Project Description
 This is a simple UI project that allows a user to input information about a course and then 
@@ -14,8 +14,7 @@ display that information to the screen when prompted by the user.
 To install and run this project, you must have both Java and Gradle installed on your local
 system. To install, clone this repository to your computer. To run, you first must make sure
 that you are in the directory that you just cloned. Then, on the command line enter the following
-text: <br> 
-`gradle run`
+text: `gradle run`
 
 ## How to Use
 Once the project is running, you should see a window with three buttons in it.
