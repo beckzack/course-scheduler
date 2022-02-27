@@ -49,7 +49,7 @@ public class Course {
      * given department
      *
      * @param department The course's department (e.g. Computer Science)
-     * @param number The course's number (e.g. CS <2263>)
+     * @param number The course's number (e.g. 2263)
      * @param name The course's name (e.g. Advanced Object-Oriented Programming)
      * @param hours The course's number of credit hours
      */
@@ -95,7 +95,7 @@ public class Course {
     public String getDepartmentCode() { return departmentCode; }
 
     /**
-     * Returns the course's number (e.g. CS <2263>)
+     * Returns the course's number (e.g. 2263)
      *
      * @return  The course's number
      */
